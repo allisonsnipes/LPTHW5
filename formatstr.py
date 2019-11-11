@@ -1,7 +1,7 @@
 my_name = 'Allison Juliette'
 my_age = 29
 my_height = 4.5*12
-my_weight = 250
+my_weight = 150
 my_eyes = 'brown'
 my_teeth = 'white'
 my_hair = 'black'
